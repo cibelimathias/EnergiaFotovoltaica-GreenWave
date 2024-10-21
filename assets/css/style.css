@@ -2,9 +2,7 @@
 html {
     scroll-behavior: smooth;
 }
-.linkfooter{
-    text-decoration: underline;
-}
+
 .angka-wrapper {
     display: flex;
     justify-content: space-between; /* Espaço igual entre os itens */
